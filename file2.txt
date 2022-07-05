@@ -1,0 +1,1 @@
+A quick way of switching branch on Git is to use the “git switch” command and specify the name of the branch you want to switch to. If the destination branch does not exist, you have to specify the “-c” option (for “create branch“), otherwise you will get an error message when switching to that branch.01-Feb-2020
