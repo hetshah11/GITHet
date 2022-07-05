@@ -1,0 +1,1 @@
+The --dry-run option will perform a demo run of the command. It will output examples of actions it will take during the fetch but not apply them.
